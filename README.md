@@ -14,3 +14,6 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ```sh
 npm install
+npm run dev  # Compile and Hot-Reload for Development
+npm run build  # Compile and Minify for Production
+npm run lint  # Lint with ESLint
